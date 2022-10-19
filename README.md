@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maucoder-ingeint
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Odoo
+- 🌱 I’m currently developing Odoo
 - 💞️ I’m looking to collaborate on Code
 - 📫 How to reach me: @maucoder in Twitter
 
